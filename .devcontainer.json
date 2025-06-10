@@ -1,4 +1,4 @@
 {
-  "name": "starlight-theme-sparkium",
+  "name": "starlight-theme",
   "image": "mcr.microsoft.com/devcontainers/typescript-node:1-22-bookworm"
 }
