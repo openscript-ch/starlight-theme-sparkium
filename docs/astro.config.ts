@@ -7,7 +7,7 @@ export default defineConfig({
     starlight({
       credits: true,
       editLink: {
-        baseUrl: 'https://github.com/openscript-ch/starlight-theme-sparkium/edit/main/docs/',
+        baseUrl: 'https://github.com/sparkium/starlight-theme/edit/main/docs/',
       },
       plugins: [starlightThemeSparkium()],
       sidebar: [
@@ -25,7 +25,7 @@ export default defineConfig({
         },
       ],
       social: [
-        { href: 'https://github.com/openscript-ch/starlight-theme-sparkium', icon: 'github', label: 'GitHub' },
+        { href: 'https://github.com/sparkium/starlight-theme', icon: 'github', label: 'GitHub' },
       ],
       title: 'Starlight Sparkium',
     }),

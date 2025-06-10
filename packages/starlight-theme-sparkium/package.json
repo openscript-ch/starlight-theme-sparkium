@@ -40,11 +40,11 @@
     "documentation",
     "astro"
   ],
-  "homepage": "https://github.com/openscript-ch/starlight-theme-sparkium",
+  "homepage": "https://github.com/sparkium/starlight-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/openscript-ch/starlight-theme-sparkium.git",
+    "url": "https://github.com/sparkium/starlight-theme.git",
     "directory": "packages/starlight-theme-sparkium"
   },
-  "bugs": "https://github.com/openscript-ch/starlight-theme-sparkium/issues"
+  "bugs": "https://github.com/sparkium/starlight-theme/issues"
 }

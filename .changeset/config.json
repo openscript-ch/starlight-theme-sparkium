@@ -2,7 +2,7 @@
   "$schema": "https://unpkg.com/@changesets/config@3.0.4/schema.json",
   "changelog": [
     "@changesets/changelog-github",
-    { "repo": "openscript-ch/starlight-theme-sparkium" }
+    { "repo": "sparkium/starlight-theme" }
   ],
   "commit": false,
   "access": "public",
