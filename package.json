@@ -10,7 +10,9 @@
     "build": "pnpm -r build",
     "lint": "astro check --noSync && pnpm -r lint",
     "format": "prettier -w --cache --ignore-unknown .",
-    "version": "pnpm changeset version && pnpm i --no-frozen-lockfile"
+    "version": "changeset version",
+    "release": "changeset publish",
+    "tag": "changeset tag"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
