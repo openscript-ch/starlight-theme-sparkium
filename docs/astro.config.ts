@@ -1,15 +1,15 @@
 import starlight from '@astrojs/starlight'
 import { defineConfig } from 'astro/config'
-import starlightThemeRapide from 'starlight-theme-rapide'
+import starlightThemeSparkium from 'starlight-theme-sparkium'
 
 export default defineConfig({
   integrations: [
     starlight({
       credits: true,
       editLink: {
-        baseUrl: 'https://github.com/HiDeoo/starlight-theme-rapide/edit/main/docs/',
+        baseUrl: 'https://github.com/HiDeoo/starlight-theme-sparkium/edit/main/docs/',
       },
-      plugins: [starlightThemeRapide()],
+      plugins: [starlightThemeSparkium()],
       sidebar: [
         {
           label: 'Start Here',
@@ -26,10 +26,10 @@ export default defineConfig({
       ],
       social: [
         { href: 'https://bsky.app/profile/hideoo.dev', icon: 'blueSky', label: 'Bluesky' },
-        { href: 'https://github.com/HiDeoo/starlight-theme-rapide', icon: 'github', label: 'GitHub' },
+        { href: 'https://github.com/HiDeoo/starlight-theme-sparkium', icon: 'github', label: 'GitHub' },
       ],
-      title: 'Starlight Rapide',
+      title: 'Starlight Sparkium',
     }),
   ],
-  site: 'https://starlight-theme-rapide.vercel.app',
+  site: 'https://starlight-theme-sparkium.vercel.app',
 })

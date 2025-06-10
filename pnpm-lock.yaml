@@ -59,11 +59,11 @@ importers:
       sharp:
         specifier: ^0.33.5
         version: 0.33.5
-      starlight-theme-rapide:
+      starlight-theme-sparkium:
         specifier: workspace:*
-        version: link:../packages/starlight-theme-rapide
+        version: link:../packages/starlight-theme-sparkium
 
-  packages/starlight-theme-rapide:
+  packages/starlight-theme-sparkium:
     dependencies:
       '@astrojs/starlight':
         specifier: '>=0.34.0'

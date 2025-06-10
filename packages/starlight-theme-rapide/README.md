@@ -1,1 +1,0 @@
-# starlight-theme-sparkium

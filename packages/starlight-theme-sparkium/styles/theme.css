@@ -1,4 +1,4 @@
-@layer rapide {
+@layer sparkium {
   /**
    * Common
    */
@@ -80,12 +80,12 @@
     --sl-color-bg-sidebar: var(--sl-color-black);
     --sl-color-backdrop-overlay: oklch(24% 0.002 var(--sl-hue-base) / 0.7);
 
-    --sl-rapide-ui-bg-color: oklch(18% 0 0);
-    --sl-rapide-ui-header-bg-color: oklch(18% 0.002 var(--sl-hue-base) / 0.8);
-    --sl-rapide-ui-border-color: oklch(28% 0.004 var(--sl-hue-base));
+    --sl-sparkium-ui-bg-color: oklch(18% 0 0);
+    --sl-sparkium-ui-header-bg-color: oklch(18% 0.002 var(--sl-hue-base) / 0.8);
+    --sl-sparkium-ui-border-color: oklch(28% 0.004 var(--sl-hue-base));
 
-    --sl-rapide-ec-marker-bg-color: oklch(27% 0.002 var(--sl-hue-base));
-    --sl-rapide-ec-marker-border-color: oklch(47% 0.002 var(--sl-hue-base));
+    --sl-sparkium-ec-marker-bg-color: oklch(27% 0.002 var(--sl-hue-base));
+    --sl-sparkium-ec-marker-border-color: oklch(47% 0.002 var(--sl-hue-base));
   }
 
   /**
@@ -148,11 +148,11 @@
 
     --sl-color-backdrop-overlay: oklch(84% 0.003 var(--sl-hue-base) / 0.7);
 
-    --sl-rapide-ui-bg-color: oklch(100% 0 0);
-    --sl-rapide-ui-header-bg-color: oklch(98% 0.002 var(--sl-hue-base) / 0.7);
-    --sl-rapide-ui-border-color: oklch(88% 0.004 var(--sl-hue-base));
+    --sl-sparkium-ui-bg-color: oklch(100% 0 0);
+    --sl-sparkium-ui-header-bg-color: oklch(98% 0.002 var(--sl-hue-base) / 0.7);
+    --sl-sparkium-ui-border-color: oklch(88% 0.004 var(--sl-hue-base));
 
-    --sl-rapide-ec-marker-bg-color: oklch(93% 0.002 var(--sl-hue-base));
-    --sl-rapide-ec-marker-border-color: oklch(62% 0.002 var(--sl-hue-base));
+    --sl-sparkium-ec-marker-bg-color: oklch(93% 0.002 var(--sl-hue-base));
+    --sl-sparkium-ec-marker-border-color: oklch(62% 0.002 var(--sl-hue-base));
   }
 }

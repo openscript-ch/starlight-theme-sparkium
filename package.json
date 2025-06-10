@@ -1,6 +1,6 @@
 {
-  "name": "starlight-theme-rapide-monorepo",
-  "version": "0.2.1",
+  "name": "starlight-theme-sparkium-monorepo",
+  "version": "0.1.0",
   "license": "MIT",
   "description": "Starlight theme inspired by the Visual Studio Code Vitesse theme.",
   "author": "HiDeoo <github@hideoo.dev> (https://hideoo.dev)",
@@ -26,7 +26,7 @@
     "typescript": "^5.7.2"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=22"
   },
   "packageManager": "pnpm@9.0.4",
   "private": true,
@@ -34,16 +34,16 @@
   "keywords": [
     "starlight",
     "theme",
-    "rapide",
+    "sparkium",
     "vitesse",
     "plugin",
     "documentation",
     "astro"
   ],
-  "homepage": "https://github.com/HiDeoo/starlight-theme-rapide",
+  "homepage": "https://github.com/HiDeoo/starlight-theme-sparkium",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HiDeoo/starlight-theme-rapide.git"
+    "url": "https://github.com/HiDeoo/starlight-theme-sparkium.git"
   },
-  "bugs": "https://github.com/HiDeoo/starlight-theme-rapide/issues"
+  "bugs": "https://github.com/HiDeoo/starlight-theme-sparkium/issues"
 }
