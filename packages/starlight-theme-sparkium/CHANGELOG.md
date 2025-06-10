@@ -1,5 +1,11 @@
 # starlight-theme-sparkium
 
+## 0.1.3
+
+### Patch Changes
+
+- [`04a85c2`](https://github.com/sparkium/starlight-theme/commit/04a85c23e7a4e242460360d85837ddbe6f85eb7e) Thanks [@openscript](https://github.com/openscript)! - Add changeset scripts
+
 ## 0.1.2
 
 ### Patch Changes
