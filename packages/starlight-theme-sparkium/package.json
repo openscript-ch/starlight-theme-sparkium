@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "license": "MIT",
   "description": "Starlight theme inspired by the Visual Studio Code Vitesse theme.",
-  "author": "HiDeoo <github@hideoo.dev> (https://hideoo.dev)",
+  "author": "openscript GmbH",
   "type": "module",
   "exports": {
     ".": "./index.ts",
@@ -40,11 +40,11 @@
     "documentation",
     "astro"
   ],
-  "homepage": "https://github.com/HiDeoo/starlight-theme-sparkium",
+  "homepage": "https://github.com/openscript-ch/starlight-theme-sparkium",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HiDeoo/starlight-theme-sparkium.git",
+    "url": "https://github.com/openscript-ch/starlight-theme-sparkium.git",
     "directory": "packages/starlight-theme-sparkium"
   },
-  "bugs": "https://github.com/HiDeoo/starlight-theme-sparkium/issues"
+  "bugs": "https://github.com/openscript-ch/starlight-theme-sparkium/issues"
 }

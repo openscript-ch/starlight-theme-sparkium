@@ -1,6 +1,6 @@
 {
   "name": "starlight-theme-sparkium-docs",
-  "version": "0.2.1",
+  "version": "0.0.0",
   "license": "MIT",
   "description": "Starlight theme inspired by the Visual Studio Code Vitesse theme.",
   "author": "HiDeoo <github@hideoo.dev> (https://hideoo.dev)",
@@ -12,10 +12,10 @@
     "lint": "eslint . --cache --max-warnings=0"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.34.0",
+    "@astrojs/starlight": "^0.34.3",
     "@hideoo/starlight-plugins-docs-components": "^0.4.0",
-    "astro": "^5.7.4",
-    "sharp": "^0.33.5",
+    "astro": "^5.9.2",
+    "sharp": "^0.34.2",
     "starlight-theme-sparkium": "workspace:*"
   },
   "engines": {

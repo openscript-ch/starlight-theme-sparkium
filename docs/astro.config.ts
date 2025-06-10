@@ -7,7 +7,7 @@ export default defineConfig({
     starlight({
       credits: true,
       editLink: {
-        baseUrl: 'https://github.com/HiDeoo/starlight-theme-sparkium/edit/main/docs/',
+        baseUrl: 'https://github.com/openscript-ch/starlight-theme-sparkium/edit/main/docs/',
       },
       plugins: [starlightThemeSparkium()],
       sidebar: [
@@ -25,8 +25,7 @@ export default defineConfig({
         },
       ],
       social: [
-        { href: 'https://bsky.app/profile/hideoo.dev', icon: 'blueSky', label: 'Bluesky' },
-        { href: 'https://github.com/HiDeoo/starlight-theme-sparkium', icon: 'github', label: 'GitHub' },
+        { href: 'https://github.com/openscript-ch/starlight-theme-sparkium', icon: 'github', label: 'GitHub' },
       ],
       title: 'Starlight Sparkium',
     }),
