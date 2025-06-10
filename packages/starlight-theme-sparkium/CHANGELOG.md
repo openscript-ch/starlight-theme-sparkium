@@ -1,5 +1,11 @@
 # starlight-theme-sparkium
 
+## 0.1.5
+
+### Patch Changes
+
+- [`9799db7`](https://github.com/sparkium/starlight-theme/commit/9799db70feca947ccf949e819e003dc4c43268b5) Thanks [@openscript](https://github.com/openscript)! - Optimize registries workflow permissions
+
 ## 0.1.4
 
 ### Patch Changes
