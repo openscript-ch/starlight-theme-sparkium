@@ -1,4 +1,9 @@
 @layer sparkium {
+
+  body {
+    background-color: #FFF;
+  }
+
   /**
    * Header
    */
@@ -145,6 +150,10 @@
     }
 
     @media (min-width: 50rem) {
+      button {
+        max-width: 100%;
+        margin-right: 1rem;
+      }
       div:has(> &) {
         justify-content: center;
       }

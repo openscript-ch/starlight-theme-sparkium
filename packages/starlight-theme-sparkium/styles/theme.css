@@ -6,7 +6,7 @@
   ::backdrop {
     --sl-hue-base: 17;
     --sl-hue-orange: 84;
-    --sl-hue-green: 164;
+    --sl-hue-green: 158;
     --sl-hue-blue: 274;
     --sl-hue-purple: 314;
     --sl-hue-red: 13;
@@ -16,6 +16,8 @@
     --sl-text-h3: var(--sl-text-xl);
     --sl-text-h4: var(--sl-text-lg);
     --sl-text-h5: unset;
+
+    --sl-content-width: 54rem;
   }
 
   /**

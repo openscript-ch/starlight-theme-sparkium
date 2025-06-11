@@ -68,6 +68,9 @@ importers:
       '@astrojs/starlight':
         specifier: '>=0.34.0'
         version: 0.34.3(astro@5.9.2(@types/node@24.0.0)(rollup@4.42.0)(typescript@5.8.3)(yaml@2.8.0))
+      '@types/reveal.js':
+        specifier: ^5.2.0
+        version: 5.2.0
       reveal.js:
         specifier: ^5.2.1
         version: 5.2.1
@@ -970,6 +973,9 @@ packages:
 
   '@types/normalize-package-data@2.4.4':
     resolution: {integrity: sha512-37i+OaWTh9qeK4LSHPsyRC7NahnGotNuZvjLSgcPzblpHB3rrCJxAOgI5gCdKm7coonsaX1Of0ILiTcnZjbfxA==}
+
+  '@types/reveal.js@5.2.0':
+    resolution: {integrity: sha512-IHO3Nc0YjI4CKQHeK/2U+6SinAJCC8/xiKCIDQnlFCiq02GMag+WrveIszll033zyv/mtXoCnWmYZITUngE2pA==}
 
   '@types/sax@1.2.7':
     resolution: {integrity: sha512-rO73L89PJxeYM3s3pPPjiPgVVcymqU490g0YO5n5By0k2Erzj6tay/4lr1CHAAU4JyOWd1rpQ8bCf6cZfHU96A==}
@@ -4807,6 +4813,8 @@ snapshots:
       undici-types: 7.8.0
 
   '@types/normalize-package-data@2.4.4': {}
+
+  '@types/reveal.js@5.2.0': {}
 
   '@types/sax@1.2.7':
     dependencies:
