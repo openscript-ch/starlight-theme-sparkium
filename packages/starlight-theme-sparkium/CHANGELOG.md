@@ -1,5 +1,11 @@
 # starlight-theme-sparkium
 
+## 0.1.6
+
+### Patch Changes
+
+- [`16c5f7a`](https://github.com/sparkium/starlight-theme/commit/16c5f7a7ec3ef14b39fb8c02b1d7daea39f1df39) Thanks [@openscript](https://github.com/openscript)! - Add reveal js
+
 ## 0.1.5
 
 ### Patch Changes
