@@ -2,7 +2,7 @@
   "name": "starlight-theme-sparkium",
   "version": "0.1.5",
   "license": "MIT",
-  "description": "Starlight theme inspired by the Visual Studio Code Vitesse theme.",
+  "description": "Starlight theme for documenting courses and lessons.",
   "author": "openscript GmbH",
   "type": "module",
   "exports": {
@@ -22,8 +22,11 @@
   "peerDependencies": {
     "@astrojs/starlight": ">=0.34.0"
   },
+  "dependencies": {
+    "reveal.js": "^5.2.1"
+  },
   "engines": {
-    "node": ">=18"
+    "node": ">=22"
   },
   "packageManager": "pnpm@9.0.4",
   "publishConfig": {
@@ -35,7 +38,6 @@
     "starlight",
     "theme",
     "sparkium",
-    "vitesse",
     "plugin",
     "documentation",
     "astro"

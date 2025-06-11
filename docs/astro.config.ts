@@ -5,7 +5,6 @@ import starlightThemeSparkium from 'starlight-theme-sparkium'
 export default defineConfig({
   integrations: [
     starlight({
-      credits: true,
       editLink: {
         baseUrl: 'https://github.com/sparkium/starlight-theme/edit/main/docs/',
       },
